@@ -217,4 +217,4 @@ Duplicate Sweeper is offered as a complete free version with all features and up
 Take control of your storage space today! Download Duplicate Sweeper for free and experience a cleaner, more organized PC.
 
 ---
-**Last updated:** 2026-10-18 22:07:11 UTC
+**Last updated:** 2026-10-19 00:39:17 UTC
